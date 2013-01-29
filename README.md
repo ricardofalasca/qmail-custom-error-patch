@@ -5,7 +5,7 @@ Qmail custom error patch non-official for FreeBSD qmail-spamcontrol's port versi
 
 --
 
-Original patch (qmail-queue-custom-error.patch) by Flavio Curti
+Patch (qmail-queue-custom-error.patch) made by Flavio Curti <fcu-software at no-way.org>.
 Allows qmail-queue to exit using custom error-messages, which can be displayed on SMTP connections.
 See file README.qq-custom-error after patching for details.
 https://no-way.org/qmail-error/
